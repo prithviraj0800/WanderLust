@@ -1,0 +1,27 @@
+Node.js
+import {v2 as cloudinary} from 'cloudinary';
+          
+cloudinary.config({ 
+  cloud_name: 'di6g5le66', 
+  api_key: '883225722151646', 
+  api_secret: 'LapRK5Q2f3fnik-aOO8bioDv23U' 
+});
+
+* :- npm install cloudinary
+
+CLOUDINARY_URL=cloudinary://883225722151646:LapRK5Q2f3fnik-aOO8bioDv23U@di6g5le66
+
+
+cloud_name=di6g5le66
+api_key=883225722151646 
+api_secret=LapRK5Q2f3fnik-aOO8bioDv23U
+
+MAP_TOKEN=pk.eyJ1IjoiZGVsdGEtc3R1ZHVlbnQiLCJhIjoiY2xvMDk0MTVhMTJ3ZDJrcGR5ZDFkaHl4ciJ9.Gj2VU1wvxc7rFVt5E4KLOQ
+
+
+username = blackdevil99340
+password = xq7Mbwhs8cpJrMOP
+
+mongodb+srv://blackdevil99340:<password>@blackdevil.lts3kbu.mongodb.net/?retryWrites=true&w=majority&appName=blackdevil
+
+mongodb+srv://blackdevil99340:xq7Mbwhs8cpJrMOP@blackdevil.lts3kbu.mongodb.net/?retryWrites=true&w=majority&appName=blackdevil
